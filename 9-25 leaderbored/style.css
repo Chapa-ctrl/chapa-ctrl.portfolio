@@ -1,0 +1,83 @@
+body {
+  background-color: #0a0a0a;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  color: #0ff;
+  text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
+  margin-bottom: 20px;
+}
+
+.leaderboard-table {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  border-collapse: collapse;
+  box-shadow: 0 0 20px #0ff;
+}
+
+.leaderboard-table th, .leaderboard-table td {
+  padding: 12px;
+  border: 1px solid #0ff;
+  text-align: center;
+}
+
+.leaderboard-table thead {
+  background: #111;
+  color: #0ff;
+  text-shadow: 0 0 5px #0ff;
+}
+
+.leaderboard-table tbody tr {
+  background: #111;
+  transition: 0.3s;
+}
+
+.leaderboard-table tbody tr:nth-child(even) {
+  background: #1a1a1a;
+}
+
+.leaderboard-table tbody tr:hover {
+  background: #222;
+  color: #0ff;
+  text-shadow: 0 0 5px #0ff;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 2px solid #0ff;
+  width: 40px;
+  height: 40px;
+}
+
+.pagination {
+  margin-top: 20px;
+}
+
+.pagination button {
+  background: transparent;
+  border: 2px solid #0ff;
+  color: #0ff;
+  padding: 8px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 8px;
+  text-shadow: 0 0 5px #0ff;
+  transition: 0.3s;
+}
+
+.pagination button:hover {
+  background: #0ff;
+  color: #000;
+}
+
+.pagination span {
+  margin: 0 10px;
+  font-size: 1.2rem;
+  text-shadow: 0 0 5px #0ff;
+}

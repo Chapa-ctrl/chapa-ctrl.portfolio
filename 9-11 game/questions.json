@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "James Madison"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "question": "In what year did World War II end in Europe (V-E Day)?",
+        "options": [
+            "1944",
+            "1945",
+            "1946",
+            "1943"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "question": "Which ancient civilization built the pyramids at Giza?",
+        "options": [
+            "Romans",
+            "Egyptians",
+            "Greeks",
+            "Mesopotamians"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "question": "The Magna Carta, an important early document limiting the power of a king, was signed in which century?",
+        "options": [
+            "11th century",
+            "12th century",
+            "13th century",
+            "14th century"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "question": "Who led India to independence from British rule through nonviolent resistance?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Mahatma Gandhi",
+            "Sardar Patel"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "question": "The 'Cold War' mainly describes tension between which two countries/alliances?",
+        "options": [
+            "France and Germany",
+            "United States and Soviet Union",
+            "China and Japan",
+            "United Kingdom and Russia"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "question": "Which event began on October 29, 1929 and helped trigger the Great Depression?",
+        "options": [
+            "Armistice Day",
+            "Stock Market Crash (Black Tuesday)",
+            "Prohibition start",
+            "Pearl Harbor attack"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "question": "Who was the famous Carthaginian general who crossed the Alps to fight Rome during the Second Punic War?",
+        "options": [
+            "Hannibal",
+            "Scipio Africanus",
+            "Julius Caesar",
+            "Cato the Elder"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "question": "In which year did the Berlin Wall fall, symbolizing the end of Cold War divisions in Europe?",
+        "options": [
+            "1987",
+            "1989",
+            "1991",
+            "1993"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "question": "Which movement fought for civil rights and an end to segregation in the United States in the 1950s and 1960s?",
+        "options": [
+            "Abolitionist Movement",
+            "Civil Rights Movement",
+            "Progressive Movement",
+            "Labor Movement"
+        ],
+        "answer": 1
+    }
+]

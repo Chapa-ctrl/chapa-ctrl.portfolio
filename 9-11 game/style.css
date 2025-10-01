@@ -1,0 +1,158 @@
+body {
+    font-family: 'Georgia', serif;
+    background: url("https://i.ibb.co/ZM5czTg/parchment.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#game-container {
+    display: flex;
+    gap: 25px;
+    margin: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#quiz-section {
+    background: rgba(255, 248, 220, 0.9);
+    padding: 25px;
+    border: 3px solid #8b5a2b;
+    border-radius: 12px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    width: 500px;
+}
+
+#leaderboard-section {
+    background: rgba(255, 248, 220, 0.9);
+    padding: 20px;
+    border: 3px solid #8b5a2b;
+    border-radius: 12px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    width: 230px;
+    height: fit-content;
+}
+
+h1,
+h2 {
+    color: #4b2e0e;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#timer {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+    background: #fdf5e6;
+    border: 2px solid #8b5a2b;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+#options-container button {
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    padding: 10px 15px;
+    border: 2px solid #8b5a2b;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #fff8dc;
+    color: #4b2e0e;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+#options-container button:hover:not(:disabled) {
+    background: #f5deb3;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #8b5a2b;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+    transition: 0.3s;
+}
+
+button:hover:not(:disabled) {
+    background: #a0522d;
+}
+
+button:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+}
+
+.correct {
+    background: #9acd32 !important;
+    color: white;
+}
+
+.wrong {
+    background: #cd5c5c !important;
+    color: white;
+}
+
+#leaderboard li {
+    margin: 6px 0;
+    font-size: 15px;
+    color: #4b2e0e;
+}
+
+/* 🔹 Restart button styling */
+#restart-btn {
+    margin-top: 15px;
+    background: #0066cc;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    padding: 8px 10px;
+    width: 100%;
+}
+
+#restart-btn:hover {
+    background: #004d99;
+}
+
+/* 📱 Small screens (phones) */
+@media (max-width: 768px) {
+    #game-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #quiz-section,
+    #leaderboard-section {
+        width: 90%;
+    }
+}
+
+/* 🖥️ Extra large screens (big monitors) */
+@media (min-width: 1400px) {
+    #quiz-section {
+        width: 600px;
+    }
+
+    #leaderboard-section {
+        width: 300px;
+    }
+
+    #timer {
+        font-size: 20px;
+    }
+}

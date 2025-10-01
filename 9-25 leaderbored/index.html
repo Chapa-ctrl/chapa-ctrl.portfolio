@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neon Leaderboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="leaderboard-container">
+    <h1 class="title">🏆 Neon Leaderboard 🏆</h1>
+
+    <table class="leaderboard-table">
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Avatar</th>
+          <th>Name</th>
+          <th>Score</th>
+          <th>Level</th>
+          <th>Country</th>
+          <th>Join Date</th>
+        </tr>
+      </thead>
+      <tbody id="leaderboard-body">
+        <!-- Rows inserted by script.js -->
+      </tbody>
+    </table>
+
+    <div class="pagination">
+      <button id="prev-btn">⬅ Prev</button>
+      <span id="page-info">Page 1</span>
+      <button id="next-btn">Next ➡</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator with Prime Detector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Toggle button -->
+    <button id="toggleBtn">Open Calculator</button>
+
+    <!-- Calculator drawer -->
+    <div class="calculator" id="calculator">
+        <!-- Logo -->
+     <div class="logo">
+  ⚡ MyCalc 
+  <img src="./logo.png" alt="logo" class="logo-img">
+</div>
+
+        <!-- Theme switch -->
+        <div class="theme-toggle">
+            <button id="lightTheme">🌞 Light</button>
+            <button id="darkTheme">🌙 Dark</button>
+        </div>
+
+        <!-- Display -->
+        <input type="text" id="display" class="display" disabled>
+
+        <!-- Buttons -->
+        <div class="buttons">
+            <button>7</button>
+            <button>8</button>
+            <button>9</button>
+            <button>/</button>
+            <button>4</button>
+            <button>5</button>
+            <button>6</button>
+            <button>*</button>
+            <button>1</button>
+            <button>2</button>
+            <button>3</button>
+            <button>-</button>
+            <button>0</button>
+            <button>.</button>
+            <button>=</button>
+            <button>+</button>
+            <button style="grid-column: span 2; background:#6f6;">Prime?</button>
+            <button style="grid-column: span 2; background:#f88;">Clear</button>
+        </div>
+
+        <!-- History -->
+        <div class="history">
+            <h3>History</h3>
+            <ul id="historyList"></ul>
+            <button id="clearHistory">Clear History</button>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

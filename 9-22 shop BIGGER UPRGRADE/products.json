@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "description": "Ergonomic wireless mouse.",
+    "image": "https://images.monoprice.com/productlargeimages/440281.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "description": "RGB backlit keyboard.",
+    "image": "https://m.media-amazon.com/images/I/71VIc-MHaNL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 149.99,
+    "description": "Noise cancelling headphones.",
+    "image": "https://m.media-amazon.com/images/I/61vj-wW4M4L.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 199.99,
+    "description": "Fitness smartwatch.",
+    "image": "https://www.apple.com/v/watch/bs/images/meta/apple-watch__ywfuk5wnf1u2_og.png"
+  },
+  {
+    "id": 5,
+    "name": "4K Monitor",
+    "price": 329.99,
+    "description": "Ultra HD monitor.",
+    "image": "https://m.media-amazon.com/images/I/81tizzS173L._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Meta Glasses",
+    "price": 499.99,
+    "description": "Augmented reality smart glasses by Meta.",
+    "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/395f0e20-97e2-4d30-9c20-ad93c74d8b49.__CR0,0,1200,900_PT0_SX600_V1___.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Laptop",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with RTX graphics.",
+    "image": "https://m.media-amazon.com/images/I/71sgAr9atBS._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "description": "Portable waterproof Bluetooth speaker.",
+    "image": "https://www.bhphotovideo.com/images/fb/audioengine_a5_bt_blk_a5_plus_bluetooth_speaker_1392605.jpg"
+  },
+  {
+    "id": 9,
+    "name": "External SSD",
+    "price": 149.99,
+    "description": "1TB high-speed portable SSD.",
+    "image": "https://m.media-amazon.com/images/I/61noPnKm1gL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wireless Charger",
+    "price": 39.99,
+    "description": "Fast wireless charging pad.",
+    "image": "https://m.media-amazon.com/images/I/61HO7-q0JNL.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Webcam",
+    "price": 79.99,
+    "description": "1080p HD streaming webcam.",
+    "image": "https://assets.tripplite.com/large-image/awc001-front-l.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Drone",
+    "price": 899.99,
+    "description": "4K camera drone with GPS and obstacle avoidance.",
+    "image": "https://i5.walmartimages.com/seo/Drone-with-4K-Camera-for-Adults-AUOSHI-RC-Quadcopter-with-High-Speed-Brushless-Motor-Altitude-Hold-Waypoint-Fly-2-Batteries-Carrying-Case_dbe64a9d-7cae-4afe-829b-25a2b7066b11.bde902db16655424f503c35c1b64308a.png?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+  },
+  {
+    "id": 13,
+    "name": "VR Headset",
+    "price": 399.99,
+    "description": "Immersive virtual reality headset.",
+    "image": "https://i5.walmartimages.com/seo/Meta-Quest-2-All-in-One-Wireless-VR-Headset-256GB_d135f132-5604-4bee-b8e5-d8bcd6bb8d11.3d4e7f3efdcf0925f00c232aac94f1b9.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Smart Home Hub",
+    "price": 129.99,
+    "description": "Voice-controlled smart home hub.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynZhHqAn9bUFaQG73zaqxozBPDWXMuzgRd78hUZi-1MciDkw:store.aeotec.com/cdn/shop/files/Samsung_Smart-Home-Hub_01.jpg%3Fv%3D1704681694&s"
+  },
+  {
+    "id": 15,
+    "name": "Tablet",
+    "price": 299.99,
+    "description": "Lightweight tablet for work and play.",
+    "image": "https://cdn.mos.cms.futurecdn.net/5WP8BG2TEfCjGUGBobWqfc.jpg"
+  },
+  {
+    "id": 16,
+    "name": "E-Reader",
+    "price": 129.99,
+    "description": "Compact e-reader with backlit screen.",
+    "image": "https://target.scene7.com/is/image/Target/GUEST_462feeea-d9a1-4b1f-bf6e-11479d552142?wid=300&hei=300&fmt=pjpeg"
+  },
+  {
+    "id": 17,
+    "name": "Gaming Chair",
+    "price": 249.99,
+    "description": "Ergonomic gaming chair with lumbar support.",
+    "image": "https://cdn.shopify.com/s/files/1/0615/0081/7593/files/IW-320-24-01_1000x1500.jpg?v=1728100605"
+  },
+  {
+    "id": 18,
+    "name": "Mechanical Pencil Stylus",
+    "price": 59.99,
+    "description": "Precision stylus for tablets.",
+    "image": "https://images.penchalet.com/products/enlarge/10733-Black.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Smart Thermostat",
+    "price": 179.99,
+    "description": "Energy-saving smart thermostat.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKunq0F81YBc2QfHEnyQWWTBNiF0miWVgn3Eq7BGHEAWJPo:https://www.hutchbiz.com/wp-content/uploads/2021/06/hutchinson-smart-thermostat.jpg&s"
+  },
+  {
+    "id": 20,
+    "name": "Portable Projector",
+    "price": 399.99,
+    "description": "Compact projector with 1080p resolution.",
+    "image": "https://m.media-amazon.com/images/I/51OSk60xtRL.jpg"
+  }
+]

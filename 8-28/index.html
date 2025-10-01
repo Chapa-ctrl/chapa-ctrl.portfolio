@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar">
+            <a href="#carousel">Carousel</a>
+            <a href="#grid">Gallery</a>
+        </nav>
+    </header>
+
+    <!-- Carousel Section -->
+    <section id="carousel" class="carousel-section">
+        <h2>Image Carousel</h2>
+        <div class="carousel">
+            <button class="prev">&#10094;</button>
+            <div class="carousel-track">
+                <img src="./gallery1/1.png" alt="img1">
+                <img src="./gallery1/2.png" alt="img2">
+                <img src="./gallery1/3.png" alt="img3">
+                <img src="./gallery1/4.png" alt="img4">
+                <img src="./gallery1/5.png" alt="img5">
+                <img src="./gallery1/6.png" alt="img6">
+                <img src="./gallery1/7.png" alt="img7">
+            </div>
+            <button class="next">&#10095;</button>
+        </div>
+    </section>
+
+    <!-- Masonry Grid Section -->
+    <section id="grid" class="grid-section">
+        <h2>Masonry Gallery</h2>
+        <div class="masonry-grid">
+            <img src="./gallery2/1.png" alt="grid1">
+            <img src="./gallery2/2.png" alt="grid2">
+            <img src="./gallery2/3.png" alt="grid3">
+            <img src="./gallery2/4.png" alt="grid4">
+            <img src="./gallery2/5.png" alt="grid5">
+            <img src="./gallery2/6.png" alt="grid6">
+            <img src="./gallery2/7.png" alt="grid7">
+            <img src="./gallery2/8.jpg" alt="grid8">
+
+        </div>
+    </section>
+
+    <!-- Lightbox -->
+    <div id="lightbox" class="lightbox">
+        <span class="close">&times;</span>
+        <img class="lightbox-content" id="lightbox-img" alt="enlarged">
+    </div>
+    <script src="./script.js"></script>
+
+</html>

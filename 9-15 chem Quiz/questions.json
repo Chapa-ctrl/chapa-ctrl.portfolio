@@ -1,0 +1,811 @@
+[
+
+  {
+    "id": 1,
+    "topic": "Matter",
+    "difficulty": "easy",
+    "question": "What is matter?",
+    "choices": ["Anything that has mass and takes up space", "Only solids", "Only gases", "Energy only"],
+    "answer": "Anything that has mass and takes up space"
+  },
+  {
+    "id": 2,
+    "topic": "Matter",
+    "difficulty": "easy",
+    "question": "Which is NOT a state of matter?",
+    "choices": ["Solid", "Liquid", "Gas", "Light"],
+    "answer": "Light"
+  },
+  {
+    "id": 3,
+    "topic": "Matter",
+    "difficulty": "easy",
+    "question": "Which state of matter has a definite shape and volume?",
+    "choices": ["Solid", "Liquid", "Gas", "Plasma"],
+    "answer": "Solid"
+  },
+  {
+    "id": 4,
+    "topic": "Matter",
+    "difficulty": "easy",
+    "question": "Which state of matter takes the shape of its container but has a fixed volume?",
+    "choices": ["Solid", "Liquid", "Gas", "Plasma"],
+    "answer": "Liquid"
+  },
+  {
+    "id": 5,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "What is the ability of a substance to be drawn into a wire called?",
+    "choices": ["Malleability", "Ductility", "Elasticity", "Conductivity"],
+    "answer": "Ductility"
+  },
+  {
+    "id": 6,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "Which is a physical change?",
+    "choices": ["Burning paper", "Melting ice", "Rusting iron", "Baking bread"],
+    "answer": "Melting ice"
+  },
+  {
+    "id": 7,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "Density is defined as:",
+    "choices": ["Mass ÷ Volume", "Volume ÷ Mass", "Mass × Volume", "Weight ÷ Mass"],
+    "answer": "Mass ÷ Volume"
+  },
+  {
+    "id": 8,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "The temperature at which a liquid becomes a gas is its:",
+    "choices": ["Freezing point", "Melting point", "Boiling point", "Condensation point"],
+    "answer": "Boiling point"
+  },
+  {
+    "id": 9,
+    "topic": "Matter",
+    "difficulty": "hard",
+    "question": "What law states that matter cannot be created or destroyed in a closed system?",
+    "choices": ["Law of Conservation of Mass", "Periodic Law", "Law of Motion", "Atomic Law"],
+    "answer": "Law of Conservation of Mass"
+  },
+  {
+    "id": 10,
+    "topic": "Matter",
+    "difficulty": "hard",
+    "question": "Which phase of matter consists of ionized gas particles with free-moving electrons?",
+    "choices": ["Solid", "Liquid", "Gas", "Plasma"],
+    "answer": "Plasma"
+  },
+  {
+    "id": 11,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "The ability to dissolve in another substance is called:",
+    "choices": ["Solubility", "Viscosity", "Conductivity", "Elasticity"],
+    "answer": "Solubility"
+  },
+  {
+    "id": 12,
+    "topic": "Matter",
+    "difficulty": "easy",
+    "question": "What is the smallest particle of an element that still has the properties of that element?",
+    "choices": ["Atom", "Molecule", "Compound", "Proton"],
+    "answer": "Atom"
+  },
+  {
+    "id": 13,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "What is a mixture that looks uniform throughout called?",
+    "choices": ["Homogeneous mixture", "Heterogeneous mixture", "Solution", "Compound"],
+    "answer": "Homogeneous mixture"
+  },
+  {
+    "id": 14,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "What is the term for a substance made of two or more elements chemically bonded?",
+    "choices": ["Compound", "Mixture", "Solution", "Atom"],
+    "answer": "Compound"
+  },
+  {
+    "id": 15,
+    "topic": "Matter",
+    "difficulty": "hard",
+    "question": "A liquid turning into a solid is called:",
+    "choices": ["Condensation", "Melting", "Freezing", "Sublimation"],
+    "answer": "Freezing"
+  },
+  {
+    "id": 16,
+    "topic": "Matter",
+    "difficulty": "hard",
+    "question": "The process of a solid changing directly to a gas is:",
+    "choices": ["Evaporation", "Sublimation", "Deposition", "Condensation"],
+    "answer": "Sublimation"
+  },
+  {
+    "id": 17,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "Viscosity measures a liquid’s:",
+    "choices": ["Density", "Resistance to flow", "Elasticity", "Mass"],
+    "answer": "Resistance to flow"
+  },
+  {
+    "id": 18,
+    "topic": "Matter",
+    "difficulty": "easy",
+    "question": "What is the process of gas changing to a liquid called?",
+    "choices": ["Condensation", "Freezing", "Sublimation", "Evaporation"],
+    "answer": "Condensation"
+  },
+  {
+    "id": 19,
+    "topic": "Matter",
+    "difficulty": "medium",
+    "question": "Which of these is an example of a heterogeneous mixture?",
+    "choices": ["Salt water", "Air", "Salad", "Sugar solution"],
+    "answer": "Salad"
+  },
+  {
+    "id": 20,
+    "topic": "Matter",
+    "difficulty": "hard",
+    "question": "The smallest unit of a compound is called a:",
+    "choices": ["Molecule", "Atom", "Ion", "Mixture"],
+    "answer": "Molecule"
+  },
+
+
+  {
+    "id": 21,
+    "topic": "Atoms",
+    "difficulty": "easy",
+    "question": "What is the center of an atom called?",
+    "choices": ["Nucleus", "Electron cloud", "Proton", "Neutron"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 22,
+    "topic": "Atoms",
+    "difficulty": "easy",
+    "question": "Which subatomic particle has a negative charge?",
+    "choices": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": "Electron"
+  },
+  {
+    "id": 23,
+    "topic": "Atoms",
+    "difficulty": "easy",
+    "question": "Which subatomic particle has no charge?",
+    "choices": ["Proton", "Neutron", "Electron", "Quark"],
+    "answer": "Neutron"
+  },
+  {
+    "id": 24,
+    "topic": "Atoms",
+    "difficulty": "easy",
+    "question": "Which particle has a positive charge?",
+    "choices": ["Proton", "Neutron", "Electron", "Photon"],
+    "answer": "Proton"
+  },
+  {
+    "id": 25,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "The number of protons in an atom is called its:",
+    "choices": ["Mass number", "Atomic number", "Isotope number", "Electron count"],
+    "answer": "Atomic number"
+  },
+  {
+    "id": 26,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "Atoms of the same element with different numbers of neutrons are called:",
+    "choices": ["Isotopes", "Ions", "Compounds", "Molecules"],
+    "answer": "Isotopes"
+  },
+  {
+    "id": 27,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "Electrons are found in regions called:",
+    "choices": ["Nucleus", "Orbitals", "Neutrons", "Shells"],
+    "answer": "Orbitals"
+  },
+  {
+    "id": 28,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "The mass number is equal to the sum of:",
+    "choices": ["Protons only", "Protons + Neutrons", "Neutrons + Electrons", "Protons + Electrons"],
+    "answer": "Protons + Neutrons"
+  },
+  {
+    "id": 29,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "What particle defines the identity of an element?",
+    "choices": ["Protons", "Electrons", "Neutrons", "Nucleus"],
+    "answer": "Protons"
+  },
+  {
+    "id": 30,
+    "topic": "Atoms",
+    "difficulty": "hard",
+    "question": "An ion with more protons than electrons is called:",
+    "choices": ["Cation", "Anion", "Isotope", "Neutral atom"],
+    "answer": "Cation"
+  },
+  {
+    "id": 31,
+    "topic": "Atoms",
+    "difficulty": "hard",
+    "question": "Which scientist proposed the planetary model of the atom?",
+    "choices": ["Rutherford", "Bohr", "Thomson", "Dalton"],
+    "answer": "Bohr"
+  },
+  {
+    "id": 32,
+    "topic": "Atoms",
+    "difficulty": "hard",
+    "question": "Who discovered the electron?",
+    "choices": ["Rutherford", "Thomson", "Bohr", "Chadwick"],
+    "answer": "Thomson"
+  },
+  {
+    "id": 33,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "Who discovered the neutron?",
+    "choices": ["Thomson", "Rutherford", "Chadwick", "Dalton"],
+    "answer": "Chadwick"
+  },
+  {
+    "id": 34,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "The smallest unit of an element is a:",
+    "choices": ["Atom", "Molecule", "Compound", "Mixture"],
+    "answer": "Atom"
+  },
+  {
+    "id": 35,
+    "topic": "Atoms",
+    "difficulty": "easy",
+    "question": "Electrons have what type of charge?",
+    "choices": ["Positive", "Negative", "Neutral", "None"],
+    "answer": "Negative"
+  },
+  {
+    "id": 36,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "What is the electron cloud?",
+    "choices": ["The dense center of an atom", "The space around the nucleus where electrons are found", "The place where neutrons gather", "The bonding site for molecules"],
+    "answer": "The space around the nucleus where electrons are found"
+  },
+  {
+    "id": 37,
+    "topic": "Atoms",
+    "difficulty": "medium",
+    "question": "Which subatomic particle determines chemical reactivity?",
+    "choices": ["Protons", "Neutrons", "Electrons", "Nucleus"],
+    "answer": "Electrons"
+  },
+  {
+    "id": 38,
+    "topic": "Atoms",
+    "difficulty": "hard",
+    "question": "Who proposed that atoms are mostly empty space?",
+    "choices": ["Dalton", "Rutherford", "Thomson", "Bohr"],
+    "answer": "Rutherford"
+  },
+  {
+    "id": 39,
+    "topic": "Atoms",
+    "difficulty": "hard",
+    "question": "The electron's mass is about:",
+    "choices": ["Equal to proton", "Equal to neutron", "Much smaller than proton or neutron", "Twice a proton"],
+    "answer": "Much smaller than proton or neutron"
+  },
+  {
+    "id": 40,
+    "topic": "Atoms",
+    "difficulty": "hard",
+    "question": "An isotope of carbon has 6 protons and 8 neutrons. What is its mass number?",
+    "choices": ["6", "8", "12", "14"],
+    "answer": "14"
+  },
+
+
+  {
+    "id": 41,
+    "topic": "Periodic Table",
+    "difficulty": "easy",
+    "question": "Who created the first widely accepted periodic table?",
+    "choices": ["Mendeleev", "Bohr", "Dalton", "Einstein"],
+    "answer": "Mendeleev"
+  },
+  {
+    "id": 42,
+    "topic": "Periodic Table",
+    "difficulty": "easy",
+    "question": "What is the horizontal row of the periodic table called?",
+    "choices": ["Group", "Period", "Family", "Block"],
+    "answer": "Period"
+  },
+  {
+    "id": 43,
+    "topic": "Periodic Table",
+    "difficulty": "easy",
+    "question": "What is the vertical column of the periodic table called?",
+    "choices": ["Period", "Group", "Row", "Cluster"],
+    "answer": "Group"
+  },
+  {
+    "id": 44,
+    "topic": "Periodic Table",
+    "difficulty": "easy",
+    "question": "Which element is represented by the symbol 'O'?",
+    "choices": ["Osmium", "Oxygen", "Oganesson", "Oxide"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 45,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "Which group contains the noble gases?",
+    "choices": ["Group 1", "Group 2", "Group 17", "Group 18"],
+    "answer": "Group 18"
+  },
+  {
+    "id": 46,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "Which group contains the alkali metals?",
+    "choices": ["Group 1", "Group 2", "Group 17", "Group 18"],
+    "answer": "Group 1"
+  },
+  {
+    "id": 47,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "What is the most abundant element in Earth’s crust?",
+    "choices": ["Oxygen", "Silicon", "Iron", "Aluminum"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 48,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "Which group is known as the halogens?",
+    "choices": ["Group 1", "Group 2", "Group 17", "Group 18"],
+    "answer": "Group 17"
+  },
+  {
+    "id": 49,
+    "topic": "Periodic Table",
+    "difficulty": "hard",
+    "question": "What is the lightest element?",
+    "choices": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 50,
+    "topic": "Periodic Table",
+    "difficulty": "hard",
+    "question": "Which element has atomic number 26?",
+    "choices": ["Iron", "Cobalt", "Nickel", "Zinc"],
+    "answer": "Iron"
+  },
+  {
+    "id": 51,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "What is the symbol for sodium?",
+    "choices": ["S", "Na", "So", "Sd"],
+    "answer": "Na"
+  },
+  {
+    "id": 52,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "Which element is a metalloid?",
+    "choices": ["Boron", "Oxygen", "Calcium", "Neon"],
+    "answer": "Boron"
+  },
+  {
+    "id": 53,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "The atomic number tells you:",
+    "choices": ["Protons only", "Electrons only", "Neutrons only", "Protons and Neutrons"],
+    "answer": "Protons only"
+  },
+  {
+    "id": 54,
+    "topic": "Periodic Table",
+    "difficulty": "easy",
+    "question": "Which element has the symbol 'H'?",
+    "choices": ["Hydrogen", "Helium", "Hassium", "Holmium"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 55,
+    "topic": "Periodic Table",
+    "difficulty": "hard",
+    "question": "Which group of elements is the most reactive metals?",
+    "choices": ["Transition metals", "Alkali metals", "Noble gases", "Halogens"],
+    "answer": "Alkali metals"
+  },
+  {
+    "id": 56,
+    "topic": "Periodic Table",
+    "difficulty": "hard",
+    "question": "What element is found in group 2 and period 4?",
+    "choices": ["Calcium", "Magnesium", "Potassium", "Strontium"],
+    "answer": "Calcium"
+  },
+  {
+    "id": 57,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "Which element is a liquid at room temperature?",
+    "choices": ["Mercury", "Sodium", "Iron", "Bromine"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 58,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "What is the heaviest naturally occurring element?",
+    "choices": ["Uranium", "Plutonium", "Lead", "Gold"],
+    "answer": "Uranium"
+  },
+  {
+    "id": 59,
+    "topic": "Periodic Table",
+    "difficulty": "medium",
+    "question": "Which element has atomic number 79?",
+    "choices": ["Silver", "Gold", "Mercury", "Lead"],
+    "answer": "Gold"
+  },
+  {
+    "id": 60,
+    "topic": "Periodic Table",
+    "difficulty": "hard",
+    "question": "Which element is a noble gas with atomic number 10?",
+    "choices": ["Neon", "Argon", "Helium", "Xenon"],
+    "answer": "Neon"
+  },
+
+
+  {
+    "id": 61,
+    "topic": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What is a chemical reaction?",
+    "choices": ["A change that forms new substances", "A change in state only", "Breaking something physically", "Mixing without change"],
+    "answer": "A change that forms new substances"
+  },
+  {
+    "id": 62,
+    "topic": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What is the substance that is changed in a reaction?",
+    "choices": ["Product", "Reactant", "Catalyst", "Mixture"],
+    "answer": "Reactant"
+  },
+  {
+    "id": 63,
+    "topic": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What are the substances formed in a reaction?",
+    "choices": ["Reactants", "Products", "Catalysts", "Mixtures"],
+    "answer": "Products"
+  },
+  {
+    "id": 64,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "What type of reaction releases energy in the form of heat or light?",
+    "choices": ["Exothermic", "Endothermic", "Neutralization", "Decomposition"],
+    "answer": "Exothermic"
+  },
+  {
+    "id": 65,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "What type of reaction absorbs energy?",
+    "choices": ["Exothermic", "Endothermic", "Combustion", "Single replacement"],
+    "answer": "Endothermic"
+  },
+  {
+    "id": 66,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "What law states that matter is not lost or gained in a chemical reaction?",
+    "choices": ["Law of Conservation of Mass", "Periodic Law", "Law of Motion", "Gas Law"],
+    "answer": "Law of Conservation of Mass"
+  },
+  {
+    "id": 67,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Which is an example of a synthesis reaction?",
+    "choices": ["2H2 + O2 → 2H2O", "H2O → H2 + O2", "AB + C → AC + B", "AB → A + B"],
+    "answer": "2H2 + O2 → 2H2O"
+  },
+  {
+    "id": 68,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Which is an example of a decomposition reaction?",
+    "choices": ["2H2 + O2 → 2H2O", "H2O → H2 + O2", "AB + C → AC + B", "NaCl + AgNO3 → AgCl + NaNO3"],
+    "answer": "H2O → H2 + O2"
+  },
+  {
+    "id": 69,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Which type of reaction involves one element replacing another?",
+    "choices": ["Double replacement", "Single replacement", "Synthesis", "Decomposition"],
+    "answer": "Single replacement"
+  },
+  {
+    "id": 70,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Which type of reaction involves two compounds exchanging elements?",
+    "choices": ["Synthesis", "Double replacement", "Combustion", "Decomposition"],
+    "answer": "Double replacement"
+  },
+  {
+    "id": 71,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "What type of reaction is CH4 + O2 → CO2 + H2O?",
+    "choices": ["Combustion", "Synthesis", "Single replacement", "Decomposition"],
+    "answer": "Combustion"
+  },
+  {
+    "id": 72,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "What is a catalyst?",
+    "choices": ["A substance that speeds up a reaction without being used up", "A product of a reaction", "An inhibitor", "A reactant that burns"],
+    "answer": "A substance that speeds up a reaction without being used up"
+  },
+  {
+    "id": 73,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "What is the energy needed to start a reaction called?",
+    "choices": ["Activation energy", "Reaction energy", "Heat energy", "Potential energy"],
+    "answer": "Activation energy"
+  },
+  {
+    "id": 74,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "Rusting of iron is an example of:",
+    "choices": ["Synthesis", "Decomposition", "Oxidation", "Neutralization"],
+    "answer": "Oxidation"
+  },
+  {
+    "id": 75,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "What type of reaction is acid + base → salt + water?",
+    "choices": ["Neutralization", "Synthesis", "Decomposition", "Combustion"],
+    "answer": "Neutralization"
+  },
+  {
+    "id": 76,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Photosynthesis is an example of which type of reaction?",
+    "choices": ["Endothermic", "Exothermic", "Combustion", "Neutralization"],
+    "answer": "Endothermic"
+  },
+  {
+    "id": 77,
+    "topic": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Cellular respiration is an example of which type of reaction?",
+    "choices": ["Endothermic", "Exothermic", "Neutralization", "Decomposition"],
+    "answer": "Exothermic"
+  },
+  {
+    "id": 78,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "Which factor does NOT usually affect reaction rate?",
+    "choices": ["Temperature", "Surface area", "Catalysts", "Color of reactants"],
+    "answer": "Color of reactants"
+  },
+  {
+    "id": 79,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "When bonds are broken and new ones are formed, what happens?",
+    "choices": ["Physical change", "Chemical reaction", "Mixture formation", "Phase change"],
+    "answer": "Chemical reaction"
+  },
+  {
+    "id": 80,
+    "topic": "Chemical Reactions",
+    "difficulty": "hard",
+    "question": "Which gas is released during photosynthesis?",
+    "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+
+
+  {
+    "id": 81,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "question": "What taste do acids usually have?",
+    "choices": ["Sweet", "Sour", "Bitter", "Salty"],
+    "answer": "Sour"
+  },
+  {
+    "id": 82,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "question": "What taste do bases usually have?",
+    "choices": ["Sour", "Bitter", "Sweet", "Salty"],
+    "answer": "Bitter"
+  },
+  {
+    "id": 83,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "question": "What is the pH of a neutral solution?",
+    "choices": ["0", "7", "14", "10"],
+    "answer": "7"
+  },
+  {
+    "id": 84,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "question": "A pH less than 7 indicates:",
+    "choices": ["Acidic solution", "Neutral solution", "Basic solution", "Salt solution"],
+    "answer": "Acidic solution"
+  },
+  {
+    "id": 85,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "question": "A pH greater than 7 indicates:",
+    "choices": ["Acidic solution", "Basic solution", "Neutral solution", "Strong acid"],
+    "answer": "Basic solution"
+  },
+  {
+    "id": 86,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "What ion do acids release in water?",
+    "choices": ["OH-", "H+", "Na+", "Cl-"],
+    "answer": "H+"
+  },
+  {
+    "id": 87,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "What ion do bases release in water?",
+    "choices": ["OH-", "H+", "Na+", "Cl-"],
+    "answer": "OH-"
+  },
+  {
+    "id": 88,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "Which indicator turns red in acid?",
+    "choices": ["Phenolphthalein", "Litmus", "Methyl orange", "Bromothymol blue"],
+    "answer": "Litmus"
+  },
+  {
+    "id": 89,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "Which indicator turns pink in base?",
+    "choices": ["Litmus", "Phenolphthalein", "Methyl orange", "Bromothymol blue"],
+    "answer": "Phenolphthalein"
+  },
+  {
+    "id": 90,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "What type of reaction occurs when an acid reacts with a base?",
+    "choices": ["Synthesis", "Decomposition", "Neutralization", "Combustion"],
+    "answer": "Neutralization"
+  },
+  {
+    "id": 91,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "What is the pH range of acids?",
+    "choices": ["0–6.9", "7–14", "0–14", "8–14"],
+    "answer": "0–6.9"
+  },
+  {
+    "id": 92,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "What is the pH range of bases?",
+    "choices": ["0–7", "7.1–14", "0–14", "1–6"],
+    "answer": "7.1–14"
+  },
+  {
+    "id": 93,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "What is produced in a neutralization reaction?",
+    "choices": ["Salt and water", "Acid and base", "Only water", "Gas"],
+    "answer": "Salt and water"
+  },
+  {
+    "id": 94,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "Which gas is produced when acids react with metals?",
+    "choices": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 95,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "What is the pH of stomach acid?",
+    "choices": ["1–2", "5–6", "7", "12–13"],
+    "answer": "1–2"
+  },
+  {
+    "id": 96,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "Ammonia (NH3) is classified as:",
+    "choices": ["Acid", "Base", "Neutral", "Salt"],
+    "answer": "Base"
+  },
+  {
+    "id": 97,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "Which household product is a base?",
+    "choices": ["Vinegar", "Lemon juice", "Baking soda", "Orange juice"],
+    "answer": "Baking soda"
+  },
+  {
+    "id": 98,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "question": "Which household product is an acid?",
+    "choices": ["Soap", "Bleach", "Lemon juice", "Baking soda"],
+    "answer": "Lemon juice"
+  },
+  {
+    "id": 99,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "Which scientist introduced the pH scale?",
+    "choices": ["Arrhenius", "Brønsted", "Sørensen", "Lewis"],
+    "answer": "Sørensen"
+  },
+  {
+    "id": 100,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "question": "According to the Brønsted–Lowry definition, an acid is a:",
+    "choices": ["Proton donor", "Proton acceptor", "Electron donor", "Electron acceptor"],
+    "answer": "Proton donor"
+  }
+]

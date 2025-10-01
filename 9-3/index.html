@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <!-- Name Entry Screen -->
+    <div id="name-screen" class="overlay">
+        <div class="overlay-content">
+            <h1>Welcome to Guess the Number 🎯</h1>
+            <p>Enter your name to start:</p>
+            <input type="text" id="playerName" placeholder="Your name">
+            <button onclick="startGameWithName()">Play Game</button>
+        </div>
+    </div>
+
+    <!-- Main Game Layout -->
+    <div class="game-layout">
+        <!-- Game Area -->
+        <div class="game-container">
+            <h1>Guess the Number!</h1>
+            <p>Select Difficulty:</p>
+            <select id="difficulty" onchange="setDifficulty()">
+                <option value="100">Medium (1-100)</option>
+                <option value="50">Easy (1-50)</option>
+                <option value="500">Hard (1-500)</option>
+            </select>
+
+            <p id="range-text">Pick a number between 1 and 100</p>
+            <input type="number" id="guess" placeholder="Enter your guess">
+            <button onclick="checkGuess()">Submit</button>
+            <button onclick="playGame()" id="reset-btn" style="display:none;">Reset</button>
+            <button onclick="giveHint()" id="hint-btn" title="Need a hint?">💡</button>
+            <p id="timer">⏱ Time: 0s</p>
+            <p id="message"></p>
+        </div>
+
+        <!-- Leaderboards -->
+        <div class="leaderboard">
+            <h2>🏆 Leaderboards</h2>
+            <button onclick="resetLeaderboards()">Reset Leaderboards</button>
+            <h3>Easy</h3>
+            <ul id="leaderboard-easy"></ul>
+            <h3>Medium</h3>
+            <ul id="leaderboard-medium"></ul>
+            <h3>Hard</h3>
+            <ul id="leaderboard-hard"></ul>
+        </div>
+    </div>
+
+</body>
+<script src="./script.js"></script>
+
+</html>

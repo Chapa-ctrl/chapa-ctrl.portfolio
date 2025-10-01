@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Chemistry Study Guide Quiz</title>
+  <meta name="description" content="Interactive chemistry practice quiz with 100 questions on matter, atoms, periodic table, reactions, and acids & bases." />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container" role="main">
+    <header class="header">
+      <h1>Chemistry Study Guide Quiz</h1>
+      <p class="subtitle">Practice questions for matter, atoms, periodic table, chemical reactions, and acids & bases.</p>
+    </header>
+
+    <!-- Setup -->
+    <section class="setup" aria-labelledby="setupTitle">
+      <h2 id="setupTitle">Quiz Setup</h2>
+      <label for="questionCount">Number of questions:</label>
+      <select id="questionCount" aria-label="Number of questions">
+        <option value="5">5</option>
+        <option value="10" selected>10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+      </select>
+      <button id="startBtn" class="btn primary">Start Quiz</button>
+      <button id="resetQuizBtn" class="btn secondary">Reset Quiz</button>
+    </section>
+
+    <!-- Quiz area -->
+    <section id="quizArea" class="hidden" aria-live="polite" aria-labelledby="quizTitle">
+      <h2 id="quizTitle" class="visually-hidden">Quiz</h2>
+
+      <div class="top-row">
+        <div id="tracker" class="tracker">Ready</div>
+        <div class="progress-wrap" aria-hidden="true">
+          <div class="progress">
+            <div id="progressBar" class="progress-bar" style="width:0%"></div>
+          </div>
+        </div>
+      </div>
+
+      <article class="question-card" aria-labelledby="questionText">
+        <h3 id="questionText">Question will appear here</h3>
+        <div id="options" class="options" role="listbox" aria-label="Answer choices"></div>
+      </article>
+
+      <div class="status">
+        ✅ Correct: <span id="correctCount">0</span>
+        &nbsp;|&nbsp; ❌ Wrong: <span id="wrongCount">0</span>
+        &nbsp;|&nbsp; Left: <span id="leftCount">0</span>
+      </div>
+    </section>
+
+    <!-- Results -->
+    <section id="resultArea" class="hidden" aria-live="polite" aria-labelledby="resultsTitle">
+      <h2 id="resultsTitle">Quiz Results</h2>
+      <p>Your score: <strong id="scoreText"></strong></p>
+      <label for="username">Name for leaderboard (optional)</label>
+      <input id="username" type="text" placeholder="Your name" aria-label="Your name for leaderboard" />
+      <div class="result-buttons">
+        <button id="saveScoreBtn" class="btn primary">Save Score</button>
+        <button id="restartBtn" class="btn secondary">Restart Quiz</button>
+      </div>
+    </section>
+
+    <!-- Leaderboard -->
+    <section id="leaderboardSection" aria-labelledby="lbTitle">
+      <h2 id="lbTitle">Leaderboard</h2>
+      <div class="table-wrap">
+        <table id="leaderboard" aria-label="Leaderboard table">
+          <thead>
+            <tr><th>Rank</th><th>Name</th><th>Score</th><th>%</th><th>Date</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="lb-controls">
+        <button id="clearLeaderboardBtn" class="btn danger">Clear Leaderboard</button>
+      </div>
+    </section>
+
+
+
+    <div id="debug" class="debug" aria-hidden="true"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

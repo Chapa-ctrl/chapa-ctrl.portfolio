@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Reese Williams",
+        "score": 2451,
+        "level": 37,
+        "join_date": "2024-02-15",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Reese%20Williams"
+    },
+    {
+        "name": "Sofia Müller",
+        "score": 3120,
+        "level": 82,
+        "join_date": "2023-12-03",
+        "country": "Germany",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Sofia%20M%C3%BCller"
+    },
+    {
+        "name": "Mateo Rossi",
+        "score": 1789,
+        "level": 24,
+        "join_date": "2025-05-21",
+        "country": "Italy",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Mateo%20Rossi"
+    },
+    {
+        "name": "Ava Kim",
+        "score": 4012,
+        "level": 91,
+        "join_date": "2024-07-10",
+        "country": "South Korea",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Ava%20Kim"
+    },
+    {
+        "name": "Noah Smith",
+        "score": 2998,
+        "level": 56,
+        "join_date": "2023-09-18",
+        "country": "Canada",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Noah%20Smith"
+    },
+    {
+        "name": "Emma Dubois",
+        "score": 1345,
+        "level": 19,
+        "join_date": "2025-03-30",
+        "country": "France",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Emma%20Dubois"
+    },
+    {
+        "name": "Lucas Silva",
+        "score": 3876,
+        "level": 73,
+        "join_date": "2024-11-22",
+        "country": "Brazil",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Lucas%20Silva"
+    },
+    {
+        "name": "Olivia Wang",
+        "score": 2210,
+        "level": 45,
+        "join_date": "2023-05-14",
+        "country": "China",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Olivia%20Wang"
+    },
+    {
+        "name": "Ethan Brown",
+        "score": 1567,
+        "level": 28,
+        "join_date": "2025-06-01",
+        "country": "UK",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Ethan%20Brown"
+    },
+    {
+        "name": "Mia Patel",
+        "score": 4102,
+        "level": 88,
+        "join_date": "2067-06-19",
+        "country": "India",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Mia%20Patel"
+    },
+    {
+        "name": "Benjamin Lee",
+        "score": 2678,
+        "level": 52,
+        "join_date": "2023-10-27",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Benjamin%20Lee"
+    },
+    {
+        "name": "Chloe Martin",
+        "score": 3201,
+        "level": 67,
+        "join_date": "2025-02-11",
+        "country": "France",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Chloe%20Martin"
+    },
+    {
+        "name": "William Novak",
+        "score": 1987,
+        "level": 34,
+        "join_date": "2024-04-05",
+        "country": "Czech Republic",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=William%20Novak"
+    },
+    {
+        "name": "Isabella Costa",
+        "score": 3765,
+        "level": 79,
+        "join_date": "2023-07-23",
+        "country": "Brazil",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Isabella%20Costa"
+    },
+    {
+        "name": "James O'Connor",
+        "score": 1420,
+        "level": 21,
+        "join_date": "2025-09-02",
+        "country": "Ireland",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=James%20O'Connor"
+    },
+    {
+        "name": "Emily Johansson",
+        "score": 2890,
+        "level": 61,
+        "join_date": "2024-06-17",
+        "country": "Sweden",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Emily%20Johansson"
+    },
+    {
+        "name": "Henry Kimura",
+        "score": 3555,
+        "level": 74,
+        "join_date": "2023-11-29",
+        "country": "Japan",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Henry%20Kimura"
+    },
+    {
+        "name": "Grace Thompson",
+        "score": 2103,
+        "level": 41,
+        "join_date": "2025-04-13",
+        "country": "Australia",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Grace%20Thompson"
+    },
+    {
+        "name": "Jack Murphy",
+        "score": 3987,
+        "level": 86,
+        "join_date": "2024-09-25",
+        "country": "Ireland",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Jack%20Murphy"
+    },
+    {
+        "name": "Ella Fischer",
+        "score": 1750,
+        "level": 26,
+        "join_date": "2023-08-07",
+        "country": "Germany",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Ella%20Fischer"
+    },
+    {
+        "name": "Alexander Ivanov",
+        "score": 2634,
+        "level": 49,
+        "join_date": "2025-01-15",
+        "country": "Russia",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Alexander%20Ivanov"
+    },
+    {
+        "name": "Sophie Laurent",
+        "score": 3128,
+        "level": 65,
+        "join_date": "2024-03-12",
+        "country": "France",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Sophie%20Laurent"
+    },
+    {
+        "name": "Daniel Kim",
+        "score": 1845,
+        "level": 32,
+        "join_date": "2023-06-20",
+        "country": "South Korea",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Daniel%20Kim"
+    },
+    {
+        "name": "Victoria Lopez",
+        "score": 3999,
+        "level": 90,
+        "join_date": "2025-07-08",
+        "country": "Mexico",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Victoria%20Lopez"
+    },
+    {
+        "name": "Samuel Clark",
+        "score": 2217,
+        "level": 44,
+        "join_date": "2024-01-30",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Samuel%20Clark"
+    },
+    {
+        "name": "Harper Singh",
+        "score": 1543,
+        "level": 27,
+        "join_date": "2023-09-11",
+        "country": "India",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Harper%20Singh"
+    },
+    {
+        "name": "David Wilson",
+        "score": 2876,
+        "level": 60,
+        "join_date": "2025-05-04",
+        "country": "UK",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=David%20Wilson"
+    },
+    {
+        "name": "Lily Chen",
+        "score": 3650,
+        "level": 77,
+        "join_date": "2024-10-16",
+        "country": "China",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Lily%20Chen"
+    },
+    {
+        "name": "Michael Brown",
+        "score": 1322,
+        "level": 18,
+        "join_date": "2023-12-25",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Michael%20Brown"
+    },
+    {
+        "name": "Zoe Dubois",
+        "score": 2789,
+        "level": 54,
+        "join_date": "2025-02-28",
+        "country": "France",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Zoe%20Dubois"
+    },
+    {
+        "name": "Sebastian Meier",
+        "score": 3401,
+        "level": 70,
+        "join_date": "2024-05-19",
+        "country": "Germany",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Sebastian%20Meier"
+    },
+    {
+        "name": "Layla Hassan",
+        "score": 1920,
+        "level": 33,
+        "join_date": "2023-07-02",
+        "country": "Egypt",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Layla%20Hassan"
+    },
+    {
+        "name": "Ryan Evans",
+        "score": 4100,
+        "level": 89,
+        "join_date": "2025-08-14",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Ryan%20Evans"
+    },
+    {
+        "name": "Camila Torres",
+        "score": 2507,
+        "level": 47,
+        "join_date": "2024-02-08",
+        "country": "Argentina",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Camila%20Torres"
+    },
+    {
+        "name": "Joshua Green",
+        "score": 1802,
+        "level": 29,
+        "join_date": "2023-10-02",
+        "country": "Australia",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Joshua%20Green"
+    },
+    {
+        "name": "Madison Lee",
+        "score": 3705,
+        "level": 75,
+        "join_date": "2025-03-18",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Madison%20Lee"
+    },
+    {
+        "name": "Gabriel Costa",
+        "score": 2288,
+        "level": 43,
+        "join_date": "2024-06-29",
+        "country": "Brazil",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Gabriel%20Costa"
+    },
+    {
+        "name": "Scarlett Baker",
+        "score": 1609,
+        "level": 30,
+        "join_date": "2023-08-22",
+        "country": "UK",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Scarlett%20Baker"
+    },
+    {
+        "name": "Julian Weber",
+        "score": 2950,
+        "level": 58,
+        "join_date": "2025-06-23",
+        "country": "Germany",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Julian%20Weber"
+    },
+    {
+        "name": "Penelope Cruz",
+        "score": 3842,
+        "level": 80,
+        "join_date": "2024-09-09",
+        "country": "Spain",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Penelope%20Cruz"
+    },
+    {
+        "name": "Owen Murphy",
+        "score": 1432,
+        "level": 22,
+        "join_date": "2023-11-05",
+        "country": "Ireland",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Owen%20Murphy"
+    },
+    {
+        "name": "Natalie Ivanova",
+        "score": 2601,
+        "level": 50,
+        "join_date": "2025-01-28",
+        "country": "Russia",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Natalie%20Ivanova"
+    },
+    {
+        "name": "Elijah Scott",
+        "score": 3300,
+        "level": 68,
+        "join_date": "2024-04-27",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Elijah%20Scott"
+    },
+    {
+        "name": "Hannah Becker",
+        "score": 1955,
+        "level": 35,
+        "join_date": "2023-06-13",
+        "country": "Germany",
+        "avatar_url": "https://api.dicebear.com/9.x/pixel-art/svg?seed=Nolan&flip=true"
+    },
+    {
+        "name": "Mason White",
+        "score": 3700,
+        "level": 78,
+        "join_date": "2025-07-30",
+        "country": "Canada",
+        "avatar_url": "https://api.dicebear.com/9.x/pixel-art/svg?seed=Nolan&flip=true"
+    },
+    {
+        "name": "Aurora Russo",
+        "score": 2150,
+        "level": 40,
+        "join_date": "2024-01-12",
+        "country": "Italy",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Aurora%20Russo"
+    },
+    {
+        "name": "Logan Harris",
+        "score": 1809,
+        "level": 31,
+        "join_date": "2023-09-29",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Logan%20Harris"
+    },
+    {
+        "name": "Victoria Schmidt",
+        "score": 2995,
+        "level": 57,
+        "join_date": "2025-04-21",
+        "country": "Germany",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Victoria%20Schmidt"
+    },
+    {
+        "name": "Carter Young",
+        "score": 3550,
+        "level": 72,
+        "join_date": "2024-08-03",
+        "country": "USA",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Carter%20Young"
+    },
+    {
+        "name": "Stella Moreau",
+        "score": 1702,
+        "level": 25,
+        "join_date": "2023-07-16",
+        "country": "France",
+        "avatar_url": "https://api.dicebear.com/6.x/identicon/svg?seed=Stella%20Moreau"
+    }
+]

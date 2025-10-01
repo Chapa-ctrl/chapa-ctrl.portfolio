@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Loop Animations</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <h1>Loop Animations with Functions</h1>
+
+    <!-- Counter 1 -->
+    <section>
+      <h2>Counter 1: 1 → 10 (for loop)</h2>
+      <div id="counter1" class="display">0</div>
+      <div class="buttons">
+        <button onclick="startCounter1()">Start</button>
+        <button onclick="stopCounter1()">Stop</button>
+        <button onclick="restartCounter1()">Restart</button>
+      </div>
+    </section>
+
+    <!-- Counter 2 -->
+    <section>
+      <h2>Counter 2: Sum until 30 (while loop)</h2>
+      <div id="counter2" class="display">0</div>
+      <div class="buttons">
+        <button onclick="startCounter2()">Start</button>
+        <button onclick="stopCounter2()">Stop</button>
+        <button onclick="restartCounter2()">Restart</button>
+      </div>
+    </section>
+
+    <!-- Color Loop -->
+    <section>
+      <h2>Color Loop (forEach)</h2>
+      <div id="colorBox" class="display">Start</div>
+      <div class="buttons">
+        <button onclick="startColors()">Start</button>
+        <button onclick="stopColors()">Stop</button>
+        <button onclick="restartColors()">Restart</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

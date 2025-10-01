@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Tech Savvy - Electronics Store</title>
+
+  <!-- Security -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src * data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline';">
+
+  <!-- SEO -->
+  <meta name="description" content="Shop the latest electronics and gadgets at Tech Savvy — from Meta Glasses to gaming laptops.">
+  <meta name="keywords" content="Tech Savvy, electronics, gadgets, Meta Glasses, laptops, headphones, online shop">
+  <meta name="author" content="Tech Savvy">
+
+  <!-- PWA / Mobile -->
+  <meta name="theme-color" content="#000000">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <!-- Social Media -->
+  <meta property="og:title" content="Tech Savvy - Electronics Store">
+  <meta property="og:description" content="Discover the newest tech gadgets and electronics at Tech Savvy.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://yourwebsite.com/preview.jpg">
+  <meta property="og:url" content="https://yourwebsite.com/">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- Performance -->
+  <link rel="preload" href="style.css" as="style">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+
+
+<body>
+  <!-- Landing Page -->
+  <div id="landing">
+    <h1>Welcome to Tech Savvy</h1>
+    <img src="https://media.gettyimages.com/id/1224356307/video/circuit-board-background-copy-space-blue-loopable-animation-computer-data-technology.jpg?s=640x640&k=20&c=6Fjnz0VAJ1-Qj7mK1pBj6rEs0NQZlhL6PBoFcmgwhEA=" alt="Landing Image">
+    <button id="enterShop">Enter Shop</button>
+  </div>
+
+  <!-- Shop Page (hidden by default) -->
+  <div id="shopPage" class="hidden">
+    <header>
+      <h1>🛒 Tech Savvy Shop</h1>
+      <input type="text" id="searchBar" placeholder="Search products...">
+      <select id="sortOptions">
+        <option value="">Sort By</option>
+        <option value="az">A - Z</option>
+        <option value="za">Z - A</option>
+        <option value="lowHigh">Price: Low to High</option>
+        <option value="highLow">Price: High to Low</option>
+      </select>
+      <button id="cartBtn">Cart (<span id="cartCount">0</span>)</button>
+    </header>
+
+    <main>
+      <div id="products"></div>
+      <div id="pagination"></div>
+    </main>
+  </div>
+
+  <!-- Cart (side panel) -->
+  <div id="cart" class="cart hidden">
+    <h2>Your Cart</h2>
+    <div id="cartItems"></div>
+    <p id="totalPrice">Total: $0</p>
+    <button id="clearCart">Clear Cart</button>
+    <button id="closeCart">Close</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
